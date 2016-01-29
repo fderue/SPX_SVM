@@ -1,7 +1,9 @@
 # SPX_SVM
-SVM classification on Superpixel
+SVM classification on Superpixel. 
+
 Input : TrainImage, ROI and TestImage
-Output : Superpixel of TestImage classified by SVM 
+
+Output : Superpixel of TestImage classified by SVM, separating foreground superpixels from background superpixels 
 
 Detail : 
 1) Training
